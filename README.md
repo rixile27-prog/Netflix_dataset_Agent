@@ -9,9 +9,8 @@ The dataset provides a snapshot of global content trends and audience engagement
 * Build a foundation for visualization dashboards and predictive modeling.
   
 🛠 TOOLS USED TO CLEAN THAT DATA
-* SQL (Databricks / Spark SQL) for cleaning, validation, and profiling.
+* SQL (Databricks/ChatGpt) for cleaning, validation, and profiling.
 * SQL functions for trimming, rounding, deduplication, and validation checks.
-* Delta/Parquet storage for efficient querying and reproducibility.
   
 🔄 PROCESS
 1. Data Ingestion: Imported raw Excel/CSV into Databricks SQL.
